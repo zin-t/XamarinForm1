@@ -21,6 +21,7 @@ namespace XFApp1.UWP
         {
             this.InitializeComponent();
 
+            // Xamarin まったく意味がわかりません。K.Shimizu
             LoadApplication(new XFApp1.App());
         }
     }
